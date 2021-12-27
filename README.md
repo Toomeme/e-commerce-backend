@@ -7,6 +7,7 @@ An Express.js and Sequelize to interact with a MySQL database using models and i
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
+- [Screenshots](#screenshots)
 - [Contributing](#contributing)
 - [Tests](#tests)
 - [Questions](#questions)
@@ -20,6 +21,10 @@ This project is intended for users who want to view, add, edit, and delete categ
   [![License: WTFPL](https://img.shields.io/badge/License-WTFPL-brightgreen.svg)](http://www.wtfpl.net/about/)
   <br />
   This application is covered by the WTFPL license.
+  
+## Screenshots
+![GET route](https://i.imgur.com/iYGAyWi.png)
+
 ## Contributing
 Jacob Toomey
 ## Questions
